@@ -1,0 +1,10 @@
+storage/
+.env
+.env.*
+!.env.example
+!.env.docker.example
+venv/
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]

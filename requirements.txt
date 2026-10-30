@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic-settings
+pymysql
+email-validator
+python-jose
+pytest
+httpx
+python-multipart
+python-dotenv
+alembic
+pwdlib[argon2]
+redis>=5.0
